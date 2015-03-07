@@ -13,7 +13,7 @@ module Geometry
     end
     
     def area
-      side ** 2
+      side ** 3
     end
   end
 
